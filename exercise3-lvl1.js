@@ -135,7 +135,7 @@ console.log(Boolean(null)); // false
     // console.log(result11);
 
 
-
+ 
 // 7
 const now = new Date();
 const yearToday = now.getFullYear();
